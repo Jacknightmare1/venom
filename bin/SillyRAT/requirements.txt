@@ -1,5 +1,5 @@
 tabulate==0.8.2
-pyinstaller==3.6
+pyinstaller==5.13.1
 pynput==1.6.8
 psutil==5.7.0
 pillow==9.0.1
