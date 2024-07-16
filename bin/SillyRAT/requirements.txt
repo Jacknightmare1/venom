@@ -4,3 +4,4 @@ pynput==1.6.8
 psutil==5.7.0
 pillow==9.0.1
 pyscreenshot==2.2
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
